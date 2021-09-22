@@ -12,7 +12,7 @@ locale.setlocale(locale.LC_TIME, 'ru_RU.UTF-8')
 #   the values we need to send
 
 token = '1943394345:AAGOULIQSLKuGSW6NKUyhIdExkYcLrQFpy8'
-chat_id = -599179418
+chat_id = -579353316
 question = 'Ретро (Время МСК)'
 telegram_poll_url = f'https://api.telegram.org/bot{token}/sendPoll?'
 
